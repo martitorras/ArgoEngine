@@ -2,7 +2,7 @@
 
 ## Credits
 
-**GitHub repository:** [Game Engine](https://github.com/martitorras/GameEngine)
+**GitHub repository:** [Argo Engine](https://github.com/martitorras/ArgoEngine)
 
 Torras Isanta, Martí.
 
